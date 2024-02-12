@@ -9,12 +9,17 @@ Goals
 4. Apply 5 to 6 machine learning algorithms and evaluate their performance using a separate test dataset.
 
 Project Structure
-Data Exploration: Analyze and visualize the dataset to gain insights into the distribution of features, relationships, and trends.
+* Data Exploration: Analyze and visualize the dataset to gain insights into the distribution of features, relationships, and trends.
+* Data Preprocessing: Cleanse and preprocess the data to handle missing values, outliers, and categorical variables.
+* Model Development: Implement various machine learning algorithms such as Linear Regression, Random Forest, Gradient Boosting, SVR, and KNeighbors to predict the optimum product weight.
+* Model Evaluation: Assess the performance of each model using evaluation metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared.
+* Visualization: Create visualizations to illustrate model predictions, feature importance, and comparison between models.
 
-Data Preprocessing: Cleanse and preprocess the data to handle missing values, outliers, and categorical variables.
+Next Steps and Improvements
+* Explore advanced feature engineering techniques to enhance model performance.
+* Experiment with different machine learning algorithms or ensemble methods to further improve accuracy.
+* Conduct additional data collection or feature extraction to capture more relevant information.
+* Implement hyperparameter tuning to optimize model parameters and enhance predictive capability.
 
-Model Development: Implement various machine learning algorithms such as Linear Regression, Random Forest, Gradient Boosting, SVR, and KNeighbors to predict the optimum product weight.
-
-Model Evaluation: Assess the performance of each model using evaluation metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared.
-
-Visualization: Create visualizations to illustrate model predictions, feature importance, and comparison between models.
+Conclusion
+By leveraging machine learning techniques and historical data, this project aims to address the supply optimization challenges faced by the FMCG company, ultimately improving efficiency and profitability. Through thorough analysis, modeling, and evaluation, actionable insights can be derived to inform strategic decisions and drive business success.
